@@ -1,0 +1,29 @@
+iniciar-programa
+    inicia-ejecucion
+    { TODO poner codigo aqui }si orientado-al-sur entonces inicio
+
+   gira-izquierda;
+
+   gira-izquierda;
+
+fin ;
+si orientado-al-este entonces inicio
+
+   gira-izquierda;
+
+fin ;
+si orientado-al-oeste entonces inicio
+
+   gira-izquierda;
+
+ gira-izquierda;
+
+   gira-izquierda;
+  
+fin ;
+si orientado-al-norte entonces inicio
+
+fin ;
+        apagate;
+    termina-ejecucion
+finalizar-programa
