@@ -1,0 +1,13 @@
+iniciar-programa
+define-nueva-instruccion gira(alex) como
+	inicio
+     repetir alex veces 
+      inicio
+        gira-izquierda;
+      fin;
+    fin;
+    inicia-ejecucion
+      gira(6);
+        apagate;
+    termina-ejecucion
+finalizar-programa
